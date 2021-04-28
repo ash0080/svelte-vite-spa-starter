@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./src/assets/svelte.png" alt="Svelte Vite Spa Starter" />
+  <img src="./src/assets/svelte.png" alt="Svelte Vite SPA Starter" />
 
 &#xa0;
 
